@@ -4,6 +4,8 @@ A device that can collect data from a 2 wheels device such as speed, inclination
 The used board is a UDOO Neo an all-in-one open hardware low-cost computer equipped with a Freescale™ i.MX 6SoloX applications processor for Android and Linux. 
 It's equipped with embedded 9-axis motion sensors and Wi-Fi + Bluetooth 4.0 module.
 
+Please read "IT - Project Report.pdf" for more details. 
+
 # Installation
 * #### Install Python library;
 * #### Download, install and modify Arduino library;
